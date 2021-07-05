@@ -11,5 +11,7 @@ namespace MockSchoolManagement.Domain.Students
         public string Name { get; set; }
 
         public string Email { get; set; }
+
+        public  string PhotoPath { get; set; }
     }
 }
